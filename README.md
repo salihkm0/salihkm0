@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salihkm0&label=Profile%20views&color=0e75b6&style=flat" alt="salihkm0" /> </p>
 
 
-- 🔭 I’m currently working on **FashionOasis - Ecommerce Application**
+- 🔭 I’m currently working on **Oxium Tech onsultancy Pvt Ltd**
 
 - 🌱 I’m currently learning **Mern Stack , Next.js , TypeScript**
 
